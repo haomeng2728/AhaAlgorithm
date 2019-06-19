@@ -81,6 +81,7 @@ public class BellmanFordQuene {
 
         for (i = 0; i < n; i++) {
             System.out.println(dis[i]);
+            System.out.println("inf = " + inf);
         }
     }
 
