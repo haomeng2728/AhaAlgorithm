@@ -13,7 +13,7 @@ AhaAlgorithm Java
   | ---- | ---- |
   | 西瓜 | 红色 |
 
-  ![图片1](C:\Users\admin\Pictures\图片1.jpg)
+  ![图片1](.\图片1.jpg)
 
   
 
