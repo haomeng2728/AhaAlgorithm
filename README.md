@@ -13,7 +13,7 @@ AhaAlgorithm Java
   | ---- | ---- |
   | 西瓜 | 红色 |
 
-  ![图片1](.\图片1.jpg)
+  ![图片1](https://github.com/Hedy2728/AhaAlgorithm/blob/master/%E5%9B%BE%E7%89%871.jpg)
 
   
 
